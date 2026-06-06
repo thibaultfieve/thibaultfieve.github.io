@@ -9,7 +9,7 @@ paperurl: '/files/insurance-cost-report.pdf'
 
 **Thibault Fieve** · Hult International Business School
 
-[[Paper PDF]](/files/insurance-cost-report.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/ton-github/insurance-cost)]
+[[Paper PDF]](/files/insurance-cost-report(1).pdf) &nbsp;&nbsp; [[GitHub](https://github.com/ton-github/insurance-cost)]
 
 ---
 
