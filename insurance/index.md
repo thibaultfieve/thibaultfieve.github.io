@@ -7,7 +7,7 @@ author_profile: false
 
 **Thibault Fieve** · Hult International Business School
 
-[[Paper PDF]](/files/insurance-cost-report.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/ton-github/insurance-cost)]
+[[Paper PDF]](/files/insurance-cost-report.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/thibaultfieve/Insurance_cost_determinant_project)]
 
 ---
 
