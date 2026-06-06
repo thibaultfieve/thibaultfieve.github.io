@@ -7,24 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an **MSc Business Analytics & AI** student at 
-**Hult International Business School** (Boston, MA).
+I am an **MSc Business Analytics & AI** student at **Hult International Business School** (Boston, MA).
 
 I earned my B.S. in Marketing from **Paris School of Business (PPA)**, Paris.
 
-My interests lie at the intersection of **machine learning and public health** — 
-specifically the application of predictive modeling and causal inference to 
-healthcare cost disparities and social determinants of health.
+My research interests lie at the intersection of machine learning and public health, with a focus on global health and health equity.
 
-I am an **AMIA member** and currently developing research on insurance cost 
-prediction using ML methods, with a focus on the interaction between 
-sociodemographic factors (BMI, smoking status) and medical expenditure.
+I am an **AMIA member**.
 
 ## Projects
 
-**Insurance Cost Prediction** · 2026  
-Predictive modeling on a health insurance dataset. Models include OLS regression, 
-Logistic Regression, and Random Forest, with analysis of BMI × smoking interaction 
-effects on medical charges. Built with Python (scikit-learn, seaborn) with Tableau 
-dashboards.  
+**Insurance Cost Prediction** · 2026
+Predictive modeling on a health insurance dataset using OLS regression, Logistic Regression, and Random Forest. Built with Python (scikit-learn, statsmodels) with Tableau dashboards.
 *Thibault Fieve*
