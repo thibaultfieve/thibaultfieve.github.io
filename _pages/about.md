@@ -18,7 +18,7 @@ I am an **AMIA member**.
 ## Projects
 ### 2026
 
-**[Predictive Modeling of US Health Insurance Costs](/publications/insurance-cost-prediction)** 
+**[Predictive Modeling of US Health Insurance Costs](/insurance/index)** 
 
 Predictive modeling on a health insurance dataset using OLS regression, Logistic Regression, and Random Forest. Built with Python (scikit-learn, statsmodels) with Tableau dashboards.
 *Thibault Fieve*
