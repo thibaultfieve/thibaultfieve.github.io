@@ -9,7 +9,7 @@ baseurl                  : ""
 repository               : "tfievespam-jpg/thibaultfieve.github.io"
 
 author:
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   name             : "Thibault Fieve"
   pronouns         :
   bio              : "Master Student at Hult"
