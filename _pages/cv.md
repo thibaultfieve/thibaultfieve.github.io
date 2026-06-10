@@ -49,9 +49,6 @@ L'Oréal · Rambouillet, France · Sep. 2025 – Jul. 2026
 **ML: Parkinson's Disease Prediction** · Python, NumPy, scikit-learn · 2026
 - Built OLS regression from scratch on 195 voice recordings; identified Pitch Period Entropy as most robust predictor
 
-**Predictive Analytics: High-Cost Diabetes** · Python, XGBoost · In Progress
-- Engineered 40+ features from OMOP-CDM tables; XGBoost model achieving AUC-ROC of 0.78
-
 ---
 
 ## Technical Skills
