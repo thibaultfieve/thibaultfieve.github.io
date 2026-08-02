@@ -22,21 +22,21 @@ MicroMasters in Statistics & Data Science · May 2026 – Apr. 2027
 **ESLSCA Business School** · Paris, France  
 MBA in Finance and Data Science · June 2026
 
-**PPA Business School** · Paris, France  
-B.S Marketing · June 2025
+**PPA Sport Business School** · Paris, France  
+Bachelor's Degree in Sport Business Management · 2025
 
 ---
 
 ## Experience
 
-**Financial Controller — Data Analytics**  
+**Apprentice Financial Controller**  
 L'Oréal · Rambouillet, France · Sep. 2025 – Jul. 2026
-- Automated monthly reporting workflows via VBA macros and SQL queries, reducing reporting time by 50% across 12 production lines
+- Automated monthly reporting workflows via VBA macros and SQL queries, reducing reporting time by 50% across 16 production lines
 - Built Power BI dashboards tracking purchase and inventory variances for real-time monitoring
 
 ---
 
-## Research & Projects
+## Projects
 
 **Predictive Modeling: US Health Insurance Costs** · Python, scikit-learn, statsmodels · 2026
 - Compared OLS (HC3 robust SE), Gamma GLM, and Random Forest on 1,337 beneficiaries
@@ -64,4 +64,4 @@ L'Oréal · Rambouillet, France · Sep. 2025 – Jul. 2026
 ## Certifications & Activities
 
 **AMIA Member** · 2026   
-**OHDSI Community Member** · 2026  
+**OHDSI Community Member** · 2026
