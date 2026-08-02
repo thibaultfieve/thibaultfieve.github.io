@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an **MSc Business Analytics & AI** student at **Hult International Business School** (Boston, MA).
+I am a data and analytics professional finishing an **MSc in Business Analytics & AI** at **Hult International Business School** (Boston, MA), with a background in financial controlling and quantitative finance.
 
-I earned my B.S. in Marketing from **Paris School of Business (PPA)**, Paris.
+I hold a **Bachelor's Degree in Sport Business Management** from **PPA Sport Business School** (Paris), and completed an **MBA in Finance and Data Science** at **ESLSCA Business School** (Paris).
 
-My research interests lie at the intersection of machine learning and public health, with a focus on global health and health equity.
+I build things end to end cost prediction models, automated reporting, and dashboards, combining financial rigor with applied machine learning.
 
-I am an **AMIA member**.
+## Experience
+
+**Apprentice Financial Controller** — L'Oréal, Rambouillet, France (2025–2026)
+
+Reduced monthly close-cycle reporting time by 50% across 16 production lines through workflow automation (macro scripting, Power Query). Built Power BI dashboards for purchase price and inventory variance analysis, and analyzed industrial cost structures in a SAP ERP environment.
 
 ## Projects
 ### 2026
@@ -22,3 +26,9 @@ I am an **AMIA member**.
 
 Predictive modeling on a health insurance dataset using OLS regression, Logistic Regression, and Random Forest. Built with Python (scikit-learn, statsmodels) with Tableau dashboards.
 *Thibault Fieve*
+
+## Skills
+
+**Programming:** Python (Pandas, NumPy, scikit-learn, statsmodels), SQL, R, VBA
+**Finance & Reporting:** FP&A, variance analysis, standard costing, SAP ERP, Power BI, Tableau, Excel (advanced)
+**Machine Learning:** Regression, Gradient Boosting (XGBoost), Random Forest, bootstrap inference, cross-validation
