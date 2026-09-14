@@ -27,6 +27,11 @@ Reduced monthly close-cycle reporting time by 50% across 16 production lines thr
 Predictive modeling on a health insurance dataset using OLS regression, Logistic Regression, and Random Forest. Built with Python (scikit-learn, statsmodels) with Tableau dashboards.
 *Thibault Fieve*
 
+**[MLB Salary Arbitration: Does Position Matter?](/mlb-salary/)**
+
+SQL analysis of eight seasons of MLB salary data. The project shows that baseball's arbitration system does not reward every position equally. Built with MySQL (self joins, CAGR calculation) and Python (seaborn) for the visualizations.
+*Thibault Fieve*
+
 ## Skills
 
 **Programming:** Python (Pandas, NumPy, scikit-learn, statsmodels), SQL, R, VBA
