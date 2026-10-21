@@ -7,33 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-I am a data and analytics professional finishing an **MSc in Business Analytics & AI** at **Hult International Business School** (Boston, MA), with a background in financial controlling and quantitative finance.
+I am a finance and analytics professional. My work sits where **industrial cost control**, **ERP data**, and **automation** meet. I am currently completing an **MS in Business Analytics** at **Hult International Business School** (Boston, MA, expected August 2027) and an **MIT MicroMasters in Statistics & Data Science**.
 
-I hold a **Bachelor's Degree in Sport Business Management** from **PPA Sport Business School** (Paris), and completed an **MBA in Finance and Data Science** at **ESLSCA Business School** (Paris).
+Before moving to Boston, I worked in financial controlling at a L'Oréal manufacturing plant in France. There, I automated recurring cost and close reports in a SAP environment and built Power BI dashboards for plant controllers and management.
 
-I build things end to end cost prediction models, automated reporting, and dashboards, combining financial rigor with applied machine learning.
+## Focus
+
+My work focuses on **automating financial controlling in manufacturing**: turning ERP data into reliable, timely cost information for plant and finance teams. I am currently writing a technical book on this topic, *[The Autonomous Manufacturing Finance Framework](/book/)*.
 
 ## Experience
 
-**Apprentice Financial Controller** — L'Oréal, Rambouillet, France (2025–2026)
+**Financial Controller, Operations**, L'Oréal, Rambouillet, France (Sep. 2025 to Jul. 2026)
 
-Reduced monthly close-cycle reporting time by 50% across 16 production lines through workflow automation (macro scripting, Power Query). Built Power BI dashboards for purchase price and inventory variance analysis, and analyzed industrial cost structures in a SAP ERP environment.
+- Automated recurring reporting for a plant with 16 production lines (SAP scripts, VBA, Power Automate, Python), cutting preparation time by about 75 to 80% on the reports concerned (from about five working days to about one).
+- Built Power BI dashboards on purchase price variance and inventory variance for plant controllers and senior management.
+- Analyzed standard vs. actual industrial costs to support root-cause analysis of budget deviations.
+
+## Book in Preparation
+
+**[The Autonomous Manufacturing Finance Framework](/book/)**
+*A Practical Introduction to ERP Automation, Financial Analytics, and Agentic AI with Python*
+Technical book in preparation (manuscript expected early 2027). It introduces M-FAME, a five-module framework for automating finance processes in manufacturing plants, with hands-on Python labs on a fully synthetic plant dataset.
 
 ## Projects
-### 2026
 
-**[Predictive Modeling of US Health Insurance Costs](/insurance/)** 
+**[Predictive Modeling of US Health Insurance Costs](/insurance/)** (2026)
+Compared OLS, Gamma GLM, and Random Forest on 1,337 policyholders to quantify cost drivers. The smoking-BMI interaction explains 86% of cost variance; bootstrap validation (10,000 resamples) confirms a $1,089 lower mean absolute error than the linear baseline (95% CI: $702 to $1,513). Python (scikit-learn, statsmodels).
 
-Predictive modeling on a health insurance dataset using OLS regression, Logistic Regression, and Random Forest. Built with Python (scikit-learn, statsmodels) with Tableau dashboards.
-*Thibault Fieve*
+**[MLB Salary Arbitration: Does Position Matter?](/mlb-salary/)** (2026)
+SQL analysis of eight seasons of MLB salary data, showing that arbitration does not reward every position equally. MySQL (self joins, CAGR) and Python (seaborn).
 
-**[MLB Salary Arbitration: Does Position Matter?](/mlb-salary/)**
+**Healthcare Cost Trajectory Analysis** (2026)
+Difference-in-Differences pipeline on 152,337 synthetic patient records to estimate the cost impact of starting a new drug class. Python, SQL, OMOP-CDM.
 
-SQL analysis of eight seasons of MLB salary data. The project shows that baseball's arbitration system does not reward every position equally. Built with MySQL (self joins, CAGR calculation) and Python (seaborn) for the visualizations.
-*Thibault Fieve*
+**High-Cost Patient Risk Scoring** (in progress)
+Gradient boosting model (XGBoost) on 40+ engineered patient-level features to flag future high-cost patients.
+
+## Leadership
+
+**President**, Kryptosphere Boston (Sep. 2026 to present): leading the US expansion of a student organization focused on tech, Web3, and business analytics.
+**Vice President**, Outrun Society, Hult Running & Networking Club (Sep. 2026 to present).
 
 ## Skills
 
-**Programming:** Python (Pandas, NumPy, scikit-learn, statsmodels), SQL, R, VBA
-**Finance & Reporting:** FP&A, variance analysis, standard costing, SAP ERP, Power BI, Tableau, Excel (advanced)
-**Machine Learning:** Regression, Gradient Boosting (XGBoost), Random Forest, bootstrap inference, cross-validation
+**Finance & ERP:** cost controlling, standard costing, variance analysis, financial close, SAP (CO, HANA, SAP GUI), Power BI, Tableau, Excel (advanced)
+**Automation & Programming:** Python (Pandas, NumPy, scikit-learn, statsmodels), SQL, VBA, Power Automate, R, Git
+**Statistics & ML:** regression, GLM, Random Forest, XGBoost, cross-validation, bootstrap inference, Difference-in-Differences

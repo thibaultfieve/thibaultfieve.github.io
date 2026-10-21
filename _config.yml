@@ -3,17 +3,17 @@ site_theme               : "default"
 title                    : "Thibault Fieve"
 title_separator          : "-"
 name                     : &name "Thibault Fieve"
-description              : &description "Hult Boston 2026"
+description              : &description "Finance and analytics: manufacturing cost control, ERP automation, and data science"
 url                      : https://thibaultfieve.github.io
 baseurl                  : ""
-repository               : "tfievespam-jpg/thibaultfieve.github.io"
+repository               : "thibaultfieve/thibaultfieve.github.io"
 
 author:
   avatar           : "Profile.png"
   name             : "Thibault Fieve"
   pronouns         :
-  bio              : "Master Student at Hult"
-  location         : "Boston,MA"
+  bio              : "Finance & analytics. MS Business Analytics candidate at Hult. Writing a book on manufacturing finance automation."
+  location         : "Boston, MA"
   employer         :
   uri              :
   email            : "tfieve@student.hult.edu"
@@ -32,7 +32,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "tfievespam-jpg"
+  github           : "thibaultfieve"
   kaggle           :
   stackoverflow    :
   artstation       :
@@ -65,6 +65,7 @@ author:
 header_pages:
   - _pages/about.md
   - _pages/cv.md
+  - _pages/book.md
 
 publication_category:
   manuscripts:

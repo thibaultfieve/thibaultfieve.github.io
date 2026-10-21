@@ -5,7 +5,7 @@ permalink: /insurance/
 author_profile: false
 ---
 
-**Thibault Fieve** · Hult International Business School
+**Thibault Fieve** · ESLSCA Business School (Data Science project)
 
 [[Paper PDF]](/files/insurance-cost-report.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/thibaultfieve/Insurance_cost_determinant_project)]
 
