@@ -48,17 +48,11 @@ L'Oréal · Rambouillet, France · Sep. 2025 to Jul. 2026
 ## Projects
 
 **Insurance Cost Prediction Model** · Python, scikit-learn, statsmodels · 2026
-- Benchmarked OLS, Gamma GLM, and Random Forest on 1,337 policyholders to quantify cost drivers; the smoking × BMI interaction was the dominant risk factor, explaining 86% of cost variance
-- Validated with 10,000-iteration bootstrap resampling: a statistically significant $1,089 improvement in mean absolute error (95% CI: $702 to $1,513) over the linear baseline
-
-**Healthcare Cost Trajectory Analysis** · Python, SQL, OMOP-CDM · 2026
-- Built a Difference-in-Differences pipeline on 152,337 synthetic patient records to isolate the cost impact of a new drug class, across 21 quarters
-
-**High-Cost Patient Risk Scoring** · Python, XGBoost · In progress
-- Engineered 40+ patient-level features; gradient boosting model reaches an AUC-ROC of 0.78
+- Compared three models (linear regression, GLM, Random Forest) on 1,337 policyholders to find the main cost drivers; smoking combined with a high BMI explained 86% of the variation in costs
+- Random Forest lowered the average prediction error by $1,089 versus the linear model, a statistically significant gain (95% CI: $702 to $1,513, 10,000 bootstrap samples)
 
 **MLB Salary Arbitration** · MySQL, Python · 2026
-- SQL analysis of eight seasons of MLB salary data comparing raises by position
+- Analyzed eight seasons of MLB salary data to compare arbitration raises by player position
 
 **Parkinson's Disease Prediction** · Python, NumPy, scikit-learn · 2026
 - Built OLS regression from scratch on 195 voice recordings
@@ -76,7 +70,7 @@ L'Oréal · Rambouillet, France · Sep. 2025 to Jul. 2026
 
 **Finance & ERP:** Cost controlling, standard costing, variance analysis, financial close, SAP (CO, HANA, SAP GUI)  
 **Programming & Automation:** Python (Pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL), R, VBA, Power Automate  
-**Statistics & ML:** Linear & logistic regression, GLM, Random Forest, XGBoost, cross-validation, bootstrap inference, Difference-in-Differences  
+**Statistics & ML:** Linear & logistic regression, GLM, Random Forest, XGBoost, cross-validation, bootstrap inference  
 **Tools:** Power BI, Tableau, Excel (advanced), Git/GitHub, Jupyter, LaTeX  
 **Languages:** French (native), English (fluent)
 

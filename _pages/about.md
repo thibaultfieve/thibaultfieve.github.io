@@ -31,17 +31,11 @@ Technical book in preparation (manuscript expected early 2027). It introduces M-
 
 ## Projects
 
-**[Predictive Modeling of US Health Insurance Costs](/insurance/)** (2026)  
-Compared OLS, Gamma GLM, and Random Forest on 1,337 policyholders to quantify cost drivers. The smoking-BMI interaction explains 86% of cost variance; bootstrap validation (10,000 resamples) confirms a $1,089 lower mean absolute error than the linear baseline (95% CI: $702 to $1,513). Python (scikit-learn, statsmodels).
+**[Predicting US Health Insurance Costs](/insurance/)** (2026)  
+I compared three models (linear regression, GLM, and Random Forest) on 1,337 policyholders to find what drives medical costs. Smoking combined with a high BMI was the main driver, explaining 86% of the variation in costs. The Random Forest model lowered the average prediction error by $1,089 compared with the linear model, a statistically significant gain (95% CI: $702 to $1,513). Tools: Python (scikit-learn, statsmodels).
 
 **[MLB Salary Arbitration: Does Position Matter?](/mlb-salary/)** (2026)  
-SQL analysis of eight seasons of MLB salary data, showing that arbitration does not reward every position equally. MySQL (self joins, CAGR) and Python (seaborn).
-
-**Healthcare Cost Trajectory Analysis** (2026)  
-Difference-in-Differences pipeline on 152,337 synthetic patient records to estimate the cost impact of starting a new drug class. Python, SQL, OMOP-CDM.
-
-**High-Cost Patient Risk Scoring** (in progress)  
-Gradient boosting model (XGBoost) on 40+ engineered patient-level features to flag future high-cost patients.
+I analyzed eight seasons of Major League Baseball salary data to test whether players receive similar raises in arbitration, whatever their position. They do not: some positions are rewarded more than others. Tools: MySQL and Python (seaborn).
 
 ## Leadership
 
@@ -52,4 +46,4 @@ Gradient boosting model (XGBoost) on 40+ engineered patient-level features to fl
 
 **Finance & ERP:** cost controlling, standard costing, variance analysis, financial close, SAP (CO, HANA, SAP GUI), Power BI, Tableau, Excel (advanced)  
 **Automation & Programming:** Python (Pandas, NumPy, scikit-learn, statsmodels), SQL, VBA, Power Automate, R, Git  
-**Statistics & ML:** regression, GLM, Random Forest, XGBoost, cross-validation, bootstrap inference, Difference-in-Differences
+**Statistics & ML:** regression, GLM, Random Forest, XGBoost, cross-validation, bootstrap inference
