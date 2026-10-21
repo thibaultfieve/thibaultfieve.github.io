@@ -1,13 +1,18 @@
 ---
 layout: single
-title: "Socio-Demographic Determinants of Health Insurance Costs in the US"
+title: "Socio-Demographic Determinants of Health Insurance Costs in the United States"
 permalink: /insurance/
 author_profile: false
+citation_title: "Socio-Demographic Determinants of Health Insurance Costs in the United States"
+citation_author: "Fievé, Thibault"
+citation_publication_date: "2026"
+citation_technical_report_institution: "ESLSCA Business School"
+citation_pdf_url: "https://thibaultfieve.github.io/insurance/Fieve_2026_Health_Insurance_Cost_Determinants.pdf"
 ---
 
-**Thibault Fieve** · ESLSCA Business School (Data Science project)
+**Thibault Fievé** · ESLSCA Business School (Data Science project) · Working paper, 2026
 
-[[Paper PDF]](/files/insurance-cost-report.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/thibaultfieve/Insurance_cost_determinant_project)]
+[[Paper PDF]](/insurance/Fieve_2026_Health_Insurance_Cost_Determinants.pdf) &nbsp;&nbsp; [[GitHub](https://github.com/thibaultfieve/Insurance_cost_determinant_project)]
 
 ---
 
